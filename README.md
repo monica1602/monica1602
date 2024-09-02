@@ -21,3 +21,4 @@ Se tiver alguma pergunta ou precisar de ajuda, fique à vontade para me pergunta
 ![image](https://github.com/user-attachments/assets/e1dfee71-15ca-4aba-a7da-b09e481db04c)
 ![image](https://github.com/user-attachments/assets/3d423250-cd96-4369-8fca-23ca8615ba18)
 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/python/python-original.svg" alt="Python" width="40" height="40" />
