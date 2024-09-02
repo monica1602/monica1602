@@ -10,15 +10,16 @@ Estou muito animada para aplicar meus conhecimentos em projetos reais e cotinuar
 
 Se tiver alguma pergunta ou precisar de ajuda, fique à vontade para me perguntar ou tratar de qualquer outro assunto você pode conversar comisgo visitando meu LinkedIn ou enviando uma mensagem pra meu e-mail.
 
-![image](<img src="https://github.com/user-attachments/assets/347ce019-2127-4bf2-a33f-71a70bc55526" width="40" height="40" />) 
-![image](https://github.com/user-attachments/assets/a8172013-6831-41cb-9a8c-b2aaa9d91050)
-![image](https://github.com/user-attachments/assets/42293f7b-8791-4b2e-92f5-ddcea5eac08f)
-![image](https://github.com/user-attachments/assets/c746ba01-3b08-466c-b4aa-ba39b9c50c03)
-![image](https://github.com/user-attachments/assets/4438d3ca-87fd-4943-aaff-b59d22fc73ca)
-![image](https://github.com/user-attachments/assets/d764f76d-8f56-4c1e-9e8f-702dcde52047)
-![image](https://github.com/user-attachments/assets/b6d1c198-4e77-41d6-8968-a60a71980ecb)
-![image](https://github.com/user-attachments/assets/1caebead-3eae-42b0-9077-340874026357)
-![image](https://github.com/user-attachments/assets/e1dfee71-15ca-4aba-a7da-b09e481db04c)
-![image](https://github.com/user-attachments/assets/3d423250-cd96-4369-8fca-23ca8615ba18)
+# Ferramentas
 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+- Anaconda
+- Apple
+- Discord
+- Git
+- GitHub
+- Linkedin
+- Notion
+- Python
+- VSCode
+- SQL
+  
