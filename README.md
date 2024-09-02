@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2c6f9ba1-a3c3-4b4b-9e96-c50c3cf843cf)### Hi there 👋
+### Hi there 👋
 
 <!--
 **monica1602/monica1602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
