@@ -10,7 +10,7 @@ Estou muito animada para aplicar meus conhecimentos em projetos reais e cotinuar
 
 Se tiver alguma pergunta ou precisar de ajuda, fique à vontade para me perguntar ou tratar de qualquer outro assunto você pode conversar comisgo visitando meu LinkedIn ou enviando uma mensagem pra meu e-mail.
 
-![image](https://github.com/user-attachments/assets/347ce019-2127-4bf2-a33f-71a70bc55526) 
+![image](<img src="https://github.com/user-attachments/assets/347ce019-2127-4bf2-a33f-71a70bc55526" width="40" height="40" />) 
 ![image](https://github.com/user-attachments/assets/a8172013-6831-41cb-9a8c-b2aaa9d91050)
 ![image](https://github.com/user-attachments/assets/42293f7b-8791-4b2e-92f5-ddcea5eac08f)
 ![image](https://github.com/user-attachments/assets/c746ba01-3b08-466c-b4aa-ba39b9c50c03)
