@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/user-attachments/assets/2c6f9ba1-a3c3-4b4b-9e96-c50c3cf843cf)### Hi there 👋
 
 <!--
 **monica1602/monica1602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![image](https://github.com/user-attachments/assets/adfacfff-e3ff-4ce0-8ef0-0e45310c7f47)
