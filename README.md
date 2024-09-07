@@ -10,25 +10,17 @@ Estou muito animada para aplicar meus conhecimentos em projetos reais e cotinuar
 
 Se tiver alguma pergunta ou precisar de ajuda, fique à vontade para me perguntar ou tratar de qualquer outro assunto você pode conversar comisgo visitando meu LinkedIn ou enviando uma mensagem pra meu e-mail.
 
-## 💡 Minhas Tecnologias
-Git • GitHub • HTML • CSS • Python • MySQL • Tableau
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/>
-</a>
-</p>
+## Minhas Tecnologias
+- Anaconda
+- Apple
+- Discord
+- Git
+- GitHub
+- LinkeIn
+- Notion
+- Pyhton
+- VSCode
+- MySql
 
   
 ## E fique a vontade para dar uma olhada nos meus projetos aqui em baixo
