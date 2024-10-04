@@ -11,16 +11,11 @@ Estou muito animada para aplicar meus conhecimentos em projetos reais e cotinuar
 Se tiver alguma pergunta ou precisar de ajuda, fique à vontade para me perguntar ou tratar de qualquer outro assunto você pode conversar comisgo visitando meu LinkedIn ou enviando uma mensagem pra meu e-mail.
 
 ## Minhas Tecnologias
-- Anaconda
-- Apple
-- Discord
-- Git
-- GitHub
-- LinkeIn
-- Notion
-- Pyhton
-- VSCode
-- MySql
-
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
   
 ## E fique a vontade para dar uma olhada nos meus projetos aqui em baixo
