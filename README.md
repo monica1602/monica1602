@@ -17,5 +17,8 @@ Se tiver alguma pergunta ou precisar de ajuda, fique à vontade para me pergunta
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-  
+
+| Nome do Projeto | Link | Linguagem | Observação |
+|-----------------|------|-----------|------------|
+| Projeto Everthing Plus | (https://github.com/monica1602/Projeto---Everthing-Plus) | Python, pandas, seaborn, plotly | Este projeto consiste em uma análise de dados da loja online fictícia Everything Plus |
 ## E fique a vontade para dar uma olhada nos meus projetos aqui em baixo
