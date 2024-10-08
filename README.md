@@ -18,7 +18,13 @@ Se tiver alguma pergunta ou precisar de ajuda, fique à vontade para me pergunta
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 
+
 | Nome do Projeto | Link | Linguagem | Observação |
 |-----------------|------|-----------|------------|
 | Projeto Everthing Plus | (https://github.com/monica1602/Projeto---Everthing-Plus) | Python, pandas, seaborn, plotly | Este projeto consiste em uma análise de dados da loja online fictícia Everything Plus |
+| Projeto Teste SQL | (https://github.com/monica1602/Projeto---Teste-SQL) | SQL, sqlalchemy | O projeto consiste em uma consulta SQL sobre um novo aplicativo de livros |
+| Projeto Teste A/B | (https://github.com/monica1602/Projeto---Teste-AB) | Python, pandas, seaborn, plotly, teste A/B | O projeto consiste em uma análise de dados de um funil de vendas de uma loja online internacional |
+| Projeto Model Fitness | (https://github.com/monica1602/Projeto---Model-Fitness) | Python, pandas, seaborn, plotly, scipy | Este projeto consiste em uma análise dos clientes de uma academia, Model Fitness e desenvolver uma estratégia para a retenção de clientes |
+| Projeto Análise de Funil | (https://github.com/monica1602/Projeto---Analise-de-Funil) | Python, pandas, seaborn, plotly, scipy | Este projeto consiste em uma análise do funil de vendas de uma empresa fictícia que está testando mudanças em seu site | 
+
 ## E fique a vontade para dar uma olhada nos meus projetos aqui em baixo
