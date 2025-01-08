@@ -1,14 +1,21 @@
 ### Olá 👋, eu sou a Mõnica
 
-Eu me chamo Mônica. Seja muito bem-vindo ao meu perfil no GitHub! 
+Sou formada em Engenharia de Produção, mas atualmente estou em trasição de carreira para a área de dados, área pela qual me apaixonei, pois sempre gostei de resolver problemas, usar a lógica e trabalhar com análises.
 
-Embora tenha uma formação em Engenharia de Produção, atualmente estou em transição de carreira para a área de dados, pois envolve lógica, solução de problemas e pensamento analítico. E buscando me especializar nessa área adquiri um Bootcamp de 7 meses da Tripleten.
+E buscando me especializar nessa área me formei em um Bootcamp de 7 meses pela Tripleten, onde aprendi a usar ferramentas como Pyhton e bibliotecas poderosas como pandas, numpy, matplotlib, plotly e outras. Com elas, descobri como analisar dados, testes de hipóteses, realizar análises estatísticas, criar gráficos e tabelas, e transformar números em informações valiosas.
 
-Durante o curso, adquiri conhecimentos sobre as principais bibliotecas Pyhton utilizadas na análise de dados como pandas, numpy, matplotlib, plotly, spciy, entre outras. Aprendi a aplica-las na solução de problemas, testes estatíticos, testes de hipóteses e diversas outras análises. Também apliquei esses conhecimentos à limpeza, transformação e pré-processamento de dados.
+Aqui no meu perfil, você vai encontrar projetos onde aplico o que aprendi:
 
-Estou muito animada para aplicar meus conhecimentos em projetos reais e cotinuar crescento e aprendendo nessa área tão promissoura.
+- Limpeza e tranformação de dados: Como preparar conjuntos de dados para análises mais confiáveis
 
-Se tiver alguma pergunta ou precisar de ajuda, fique à vontade para me perguntar ou tratar de qualquer outro assunto você pode conversar comisgo visitando meu LinkedIn ou enviando uma mensagem pra meu e-mail.
+- Visualização de dados: Gráficos claros e interativos para histórias com números
+
+- Análises práticas: Resolvendo problemas reais com conjuntos de dados públicos
+
+Estou animada para dar meus primeiros passos em projetos reais e continuar aprendendo cada vez mais nessa área incrível e cheia de oportunidades.
+
+Se tiver alguma pergunta ou precisar de ajuda, fique à vontade para me perguntar. Você pode me encontrar no Linkedin (www.linkedin.com/in/
+monicahidecoprupst) ou me mandar um email (monicaprupst1602@gmail.com)
 
 ## Minhas Tecnologias
 <p align="left">
@@ -26,10 +33,10 @@ Se tiver alguma pergunta ou precisar de ajuda, fique à vontade para me pergunta
 
 | Nome do Projeto | Link | Linguagem | Observação |
 |-----------------|------|-----------|------------|
-| Projeto Everthing Plus | (https://github.com/monica1602/Projeto---Everthing-Plus) | Python, pandas, seaborn, plotly | Este projeto consiste em uma análise de dados da loja online fictícia Everything Plus |
-| Projeto Teste SQL | (https://github.com/monica1602/Projeto---Teste-SQL) | SQL, sqlalchemy | O projeto consiste em uma consulta SQL sobre um novo aplicativo de livros |
-| Projeto Teste A/B | (https://github.com/monica1602/Projeto---Teste-AB) | Python, pandas, seaborn, plotly, teste A/B | O projeto consiste em uma análise de dados de um funil de vendas de uma loja online internacional |
-| Projeto Model Fitness | (https://github.com/monica1602/Projeto---Model-Fitness) | Python, pandas, seaborn, plotly, scipy | Este projeto consiste em uma análise dos clientes de uma academia, Model Fitness e desenvolver uma estratégia para a retenção de clientes |
-| Projeto Análise de Funil | (https://github.com/monica1602/Projeto---Analise-de-Funil) | Python, pandas, seaborn, plotly, scipy | Este projeto consiste em uma análise do funil de vendas de uma empresa fictícia que está testando mudanças em seu site | 
+| Projeto Everthing Plus | (https://github.com/monica1602/Projeto---Everthing-Plus) | Python, pandas, seaborn, plotly | Este projeto consiste em uma análise de dados da loja Everything Plus, uma loja online fictícia que vende utensílios domésticos, que deseja melhorar suas vendas através de ofertas personalizadas. |
+| Projeto Teste SQL | (https://github.com/monica1602/Projeto---Teste-SQL) | SQL, sqlalchemy | O projeto consiste em uma consulta SQL sobre um novo aplicativo de livros. Esse projeto utilizou um banco de dados de um dos serviços concorrentes nesse mercado. |
+| Projeto Teste A/B | (https://github.com/monica1602/Projeto---Teste-AB) | Python, pandas, seaborn, plotly, teste A/B | O projeto é uma tarefa analítica de uma loja online internacional. Ele visa traballhar com dados realizando uma análise com foco no resultado de um teste A/B |
+| Projeto Model Fitness | (https://github.com/monica1602/Projeto---Model-Fitness) | Python, pandas, seaborn, plotly, scipy | Este projeto consiste em uma análise de uma rede de clientes de uma academia, Model Fitness. O objetivo é desenvolver uma estratégia de interação com o cliente baseados em dados analíticos, para tentar resolver o problema de rotatividade dos clientes. |
+| Projeto Análise de Funil | (https://github.com/monica1602/Projeto---Analise-de-Funil) | Python, pandas, seaborn, plotly, scipy | Este projeto consiste em uma análise de funil de vendas da loja online fictícia que vende produtos alimentício para descobrir quantos usuários chegam à etapa de compra e quantos ficam pelo caminho. Depois, foi feito um teste A/B para testar uma mudança no design do site e descobrir como os clientes iriam reagir | 
 
 
