@@ -1,4 +1,4 @@
-### Olá 👋, eu sou a Mõnica
+### Olá 👋, eu sou a Mônica
 
 Sou formada em Engenharia de Produção, mas atualmente estou em trasição de carreira para a área de dados, área pela qual me apaixonei, pois sempre gostei de resolver problemas, usar a lógica e trabalhar com análises.
 
