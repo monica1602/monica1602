@@ -1,21 +1,17 @@
 ### Olá 👋, eu sou a Mônica
 
-Sou formada em Engenharia de Produção, mas atualmente estou em trasição de carreira para a área de dados, área pela qual me apaixonei, pois sempre gostei de resolver problemas, usar a lógica e trabalhar com análises.
+Sou graduada em Engenharia de Produção e, atualmente, estou em transição de carreira para a área de dados, pela qual desenvolvi uma grande paixão, pois sempre tive interesse em resolver problemas, aplicar lógica e trabalhar com análises.
 
-E buscando me especializar nessa área me formei em um Bootcamp de 7 meses pela Tripleten, onde aprendi a usar ferramentas como Pyhton e bibliotecas poderosas como pandas, numpy, matplotlib, plotly e outras. Com elas, descobri como analisar dados, testes de hipóteses, realizar análises estatísticas, criar gráficos e tabelas, e transformar números em informações valiosas.
+Buscando aprimorar meus conhecimentos e me especializar, concluí um Bootcamp de 7 meses pela Tripleten, onde adquiri habilidades em ferramentas como Python e bibliotecas poderosas como pandas, numpy, matplotlib, plotly, entre outras. Com essas ferramentas, aprendi a analisar dados, realizar testes de hipóteses, fazer análises estatísticas, criar gráficos interativos e tabelas, além de transformar números em informações valiosas para a tomada de decisões.
 
-Aqui no meu perfil, você vai encontrar projetos onde aplico o que aprendi:
+No meu perfil, você encontrará diversos projetos onde aplico meus conhecimentos em áreas como:
+- Limpeza e transformação de dados: Preparando conjuntos de dados para análises mais precisas e confiáveis;
+- Visualização de dados: Criando gráficos claros e interativos para facilitar a comunicação de insights;
+- Análises práticas: Resolvendo problemas reais utilizando conjuntos de dados públicos.
 
-- Limpeza e tranformação de dados: Como preparar conjuntos de dados para análises mais confiáveis
+Estou entusiasmada para dar meus primeiros passos em projetos reais e continuar minha jornada de aprendizado nesta área dinâmica e cheia de oportunidades.
 
-- Visualização de dados: Gráficos claros e interativos para histórias com números
-
-- Análises práticas: Resolvendo problemas reais com conjuntos de dados públicos
-
-Estou animada para dar meus primeiros passos em projetos reais e continuar aprendendo cada vez mais nessa área incrível e cheia de oportunidades.
-
-Se tiver alguma pergunta ou precisar de ajuda, fique à vontade para me perguntar. Você pode me encontrar no Linkedin (www.linkedin.com/in/
-monicahidecoprupst) ou me mandar um email (monicaprupst1602@gmail.com)
+Caso tenha alguma dúvida ou queira conversar, estou à disposição. Você pode me encontrar no LinkedIn (www.linkedin.com/in/monicahidecoprupst) ou me enviar um e-mail (monicaprupst1602@gmail.com).
 
 ## Minhas Tecnologias
 <p align="left">
