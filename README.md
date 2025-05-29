@@ -1,19 +1,17 @@
 ### Olá 👋, eu sou a Mônica
 
-Sou graduada em Engenharia de Produção e, atualmente, estou em uma transição de carreira para a área de dados, que despertou em mim uma grande paixão. Sempre tive um gosto profundo por resolver problemas, aplicar lógica e trabalhar com análises. Ao longo da minha trajetória acadêmica e profissional, percebi que a área de dados oferece um conjunto único de desafios, capazes de transformar números em soluções estratégicas e impactar positivamente as decisões das empresas. Esse foi um dos principais motivos que me motivou a direcionar minha carreira para esse setor, que acredito ser extremamente promissor e transformador.
+Sou graduada em Engenharia de Produção e estou em transição para a área de dados, onde encontrei uma paixão genuína por resolver problemas com lógica e análise. Para me especializar, concluí um Bootcamp intensivo de 7 meses na Tripleten, onde adquiri domínio de ferramentas como Python e bibliotecas como pandas, numpy, matplotlib e plotly.
 
-Para me especializar, decidi concluir um Bootcamp intensivo de 7 meses na Tripleten, onde aprendi a utilizar ferramentas essenciais como Python, além de bibliotecas poderosas como pandas, numpy, matplotlib, plotly, e outras. Durante o programa, tive a oportunidade de trabalhar em projetos desafiadores que envolviam desde a coleta e organização de dados até a aplicação de métodos analíticos para transformar dados brutos em insights estratégicos. Através dessa formação, desenvolvi habilidades valiosas, como a análise de grandes volumes de dados, testes de hipóteses, análise estatística, construção de gráficos interativos e visualizações dinâmicas, tudo com o objetivo de transformar números em informações claras e acessíveis.
+Durante essa formação, trabalhei em projetos práticos que envolveram desde a coleta e limpeza de dados até a análise estatística e a construção de visualizações interativas, sempre com foco em transformar dados em decisões estratégicas. Desenvolvi competências sólidas em:
 
-Em minha jornada, explorei os seguintes tópicos, que agora fazem parte do meu repertório de competências:
-- Limpeza e transformação de dados: Aprendi a preparar conjuntos de dados para análises mais robustas, lidando com dados ausentes, duplicados e realizando a transformação de tipos de variáveis para garantir que os dados estejam prontos para serem analisados de forma confiável.
-- Visualização de dados: Desenvolvi gráficos interativos e visualizações claras, utilizando ferramentas como Matplotlib e Plotly, para contar histórias por meio dos dados e facilitar a comunicação de insights para diferentes públicos.
-- Análises práticas: Resolvi problemas reais com conjuntos de dados públicos, aplicando o aprendizado adquirido para tirar conclusões práticas que ajudam a resolver questões do dia a dia, como otimização de processos, identificação de padrões e projeções para o futuro.
+- Preparação e transformação de dados: tratamento de dados ausentes, duplicados e conversão de variáveis;
+- Visualização de dados: criação de gráficos claros e interativos para comunicar insights;
+- Análise estatística e testes de hipóteses: aplicação prática para resolução de problemas reais;
+- Machine Learning: início no uso de modelos preditivos para identificar padrões e prever resultados.
 
-Além disso, tenho me aprofundado na utilização de Machine Learning, que, por meio de algoritmos de aprendizado de máquina, permite identificar padrões mais complexos nos dados e prever resultados, o que tem sido um grande diferencial na minha formação. Em projetos futuros, espero utilizar essas habilidades para impulsionar empresas na criação de modelos preditivos que ajudem a melhorar suas operações.
+Pretendo aplicar essas habilidades em projetos que contribuam para a melhoria de processos, geração de insights e apoio à tomada de decisão. Estou em busca de oportunidades que me desafiem a crescer na área de dados e onde eu possa gerar impacto com o que aprendi.
 
-Agora, estou animada e pronta para aplicar esse conhecimento em projetos reais, tanto no mercado quanto em novos desafios. Tenho plena consciência de que o aprendizado nunca para e estou disposta a continuar evoluindo na área de dados, explorando novas ferramentas, técnicas e abordagens.
-
-Se você tiver interesse em conversar sobre projetos, discutir ideias ou colaborar em alguma iniciativa, ficarei feliz em trocar experiências. Estou aberta a novos desafios e pronta para contribuir com minha experiência, habilidades e entusiasmo. Você pode me encontrar no LinkedIn (www.linkedin.com/in/monicahidecoprupst) ou entrar em contato pelo e-mail (monicaprupst1602@gmail.com).
+Se quiser trocar ideias ou discutir possíveis colaborações, estou à disposição pelo LinkedIn ou pelo e-mail monicaprupst1602@gmail.com.
 
 Estou empolgada com as possibilidades que surgem a cada novo aprendizado e ansiosa para ver até onde posso chegar no mundo dos dados.
 
